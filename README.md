@@ -2,8 +2,8 @@
 Bounties for the SORA decentralized world economic system.
 
 ## List of Current Bounty Tasks
-|Task                  |Status    |Assigned    |Notes                          |
-|----------------------|----------|------------|-------------------------------|
-|Coingecko listing     |WIP       |Yes         |Needs marketcap.                               |
-|Coinmarketcap listing |        |NO          |                               |
-|Price bot             |WIP       |Yes         |Sora logo fix is required      |
+|Task                  |Status    |Assigned    | Amount    | Notes                          |
+|----------------------|----------|------------|-----------|--------------------|
+|Coingecko listing     |WIP       |Yes         |   tbd     | Needs marketcap.                               |
+|Coinmarketcap listing |          |NO          |   tbd     |                        |
+|Price bot             |WIP       |Yes         |   tbd     | Sora logo fix is required      |
