@@ -7,3 +7,4 @@ Bounties for the SORA decentralized world economic system.
 |Coingecko listing     |WIP       |Yes         |   tbd     | Needs marketcap.                               |
 |Coinmarketcap listing |          |NO          |   tbd     |                        |
 |Price bot             |WIP       |Yes         |   tbd     | Sora logo fix is required      |
+|Block Explorer             |WIP       |NO         |   tbd     | Something like etherscan      |
