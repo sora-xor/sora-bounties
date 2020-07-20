@@ -16,6 +16,9 @@ The translator receives 90% of the reward, 10% goes to the reviewer.
 Please note that review is the process of checking (and small corrections) and not major editing – revisions are counted as some part of the translation.
 Who makes revisions – original translator or the reviewer – should be discussed between them or in the group.
 *In some cases it might take some time to find a reviewer, so please be patient – reward will be sent when review is completed.*
+
+> There are some exceptions to this review rule. First of all, Sora team members are considered trusted translators, because they can be reached anytime in case something needs to be corrected. Also, in cases when we cannot find a reviewer for a language for some time (when it is a rare language), it can be released without review – in that case translator receives 100% reward but needs to leave his contacts in case some corrections are required in the future.
+
 5. After the translation is fully made (for Sora and Capital – it is a Sora component for iOS app) and reviewed, the award will be assigned – we'll ask for your wallet address in Telegram and add it to the table here.
 We use Lokalise reports to count your contribution; if you have any questions regarding reward assignment, let us know.
 6. **If you don't understand some words** you are translating, don't take a guess what they mean – just ask in the group, we'll help!
