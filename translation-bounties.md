@@ -20,7 +20,7 @@ Who makes revisions – original translator or the reviewer – should be discu
 We use Lokalise reports to count your contribution; if you have any questions regarding reward assignment, let us know.
 6. **If you don't understand some words** you are translating, don't take a guess what they mean – just ask in the group, we'll help!
 
-Reward might change from time to time – depending on Sora exchange rates. **As for the end of May 100% reward was 800 XOR** (720 for full translation; 80 for review).
+Reward might change from time to time – depending on Sora exchange rates. **As for the end of May 2020, 100% reward was 800 XOR** (720 for full translation; 80 for review).
 
 ## Table of the languages already in work
 
