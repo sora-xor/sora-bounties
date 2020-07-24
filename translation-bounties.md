@@ -29,31 +29,33 @@ Reward might change from time to time – depending on Sora exchange rates. **As
 
 | Language           | Assigned (Telegram Alias) | Completion Sora | Completion Capital | Is Reviewed? | Reward Assignment                      | Is Reward Sent |
 |--------------------|---------------------------|-----------------|--------------------|--------------|----------------------------------------|----------------|
-| Arabic             | @Yeahwecan                |                 |                    |              |                                        |                |
+| Arabic             | @Yeahwecan @iTamerOmar (r)| 100%            | 100%               |              |                                        |                |
 | Bashkir            | @zi1y4                    | 100%            | 100%               | Yes          | 100%                                   | No             |
 | Chinese Simplified | @ShawnRingLin             | 100%            | 100%               | Yes          | 100%                                   | No             |
-| Croatian           | @telasius                 |                 |                    |              |                                        |                |
+| Chinese Tr (Taiwan)| @DolphinJC                |                 |                    |              |                                        |                |
+| Croatian           | @telasius @islavica (rev) | 100%            | 100%               | Yes          | @telasius - 90%  @islavica - 10%       | No             |
 | Estonian           | @tarmovannas              | 100%            | 100%               | Yes          | 100%                                   | No             |
-| Filipino           | @ryjin111 @Shlip (review) | 100%            | 100%               |              |                                        |                |
-| Finnish (Finland)  |                           | 9%              | 0%                 |              |                                        |                |
+| Filipino           | @ryjin111 @Shlip (review) | 100%            | 100%               | Yes          | @ryjin111 - 83% @Shlip - 17%           | No             |
+| Finnish (Finland)  | @tarmovannas              | 100%            | 100%               | Yes          | 100%                                   | No             |
 | French             | @Jeremiegr                | 100%            | 100%               | Yes          | 100%                                   | No             |
 | German (Germany)   |                           | 12%             | 4%                 |              |                                        |                |
 | Indonesian         | @Ari_Wibawa               | 100%            | 100%               | Yes          | 100%                                   | No             |
 | Italian (Italy)    | @KobeMentality @Loejr     | 100%            | 100%               | Yes          | @KobeMentality - 80% @Loejr - 20%      | No             |
 | Japanese           |                           | 100%            | 100%               | Yes          |                                        |                |
 | Khmer (Cambodia)   |                           | 12%             | 98%                |              |                                        |                |
+| Korean             | @SoundRX                  |                 |                    |              |                                        |                |
 | Malay (Malaysia)   | @dogeisgod                | 100%            | 100%               | Yes          | 100%                                   | No             |
 | Romanian           |                           | 8%              | 0%                 |              |                                        |                |
 | Russian            |                           | 100%            | 100%               | Yes          |                                        |                |
-| Spanish            | @cfott                    |                 |                    |              |                                        |                |
-| Spanish (Columbia) |                           | 100%            | 100%               |              |                                        |                |
-| Swedish (Sweden)   |                           | 8%              | 0%                 |              |                                        |                |
+| Spanish            | @cfott @MGLEZC            | 100%            | 100%               | Yes          | @cfott - 70% @MGLEZC - 30%             | No             |
+| Spanish (Columbia) |                           | 100%            | 100%               | Yes          |                                        |                |
+| Swedish (Sweden)   | @MadeleineGustafsson      | 100%            | 100%               |              |                                        |                |
 | Tatar              |                           | 91%             | 0%                 |              |                                        |                |
-| Thai               |                           | 33%             | 0%                 |              |                                        |                |
+| Thai               | @BBkrittika               | 100%            | 100%               | Yes          | 100%                                   | No             |
 | Ukrainian          | @mingela                  | 100%            | 100%               | Yes          | 100%                                   | No             |
 
 ## Languages proposed
 
 | Language                     | Assigned To | Suggested By |
 |------------------------------|-------------|--------------|
-| Chinese Traditional (Taiwan) | @DolphinJC  | @DolphinJC   |
+| Serbian, Bosnian             |             | @telasius    |
