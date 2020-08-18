@@ -27,6 +27,8 @@ We use Lokalise reports to count your contribution; if you have any questions re
 Reward might change from time to time – depending on Sora exchange rates. As for the end of May 2020, 100% reward was 800 XOR (720 for full translation; 80 for review).
 **From 23rd of July, 2020, the 100% reward will be 100XOR for new languages and might change too.**
 
+Please note that **all rewards are in SoraNet XOR v1 tokens (not ERC-20)**
+
 ## Table of the languages already in work
 
 | Language           | Assigned (Telegram Alias) | Completion Sora | Completion Capital | Is Reviewed? | Reward Assignment                      | Is Reward Sent |
