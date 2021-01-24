@@ -1,4 +1,4 @@
-# Translation Bounties Program
+# Translation Bounties Program (2020) — Archived
 
 **We want Sora to speak the languages of the world and unite it.**
 
