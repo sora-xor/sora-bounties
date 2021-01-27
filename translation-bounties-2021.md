@@ -2,7 +2,8 @@
 
 **We want Sora to speak the languages of the world and unite it.**
 
-For that, we started our translation program – you can translate, review translations and receive VAL tokens as a reward for your help.
+For that, we started our translation program – you can translate, review translations and receive SORA Validator Token
+(VAL) tokens as a reward for your help.
 We use [Lokalise](https://lokalise.com/) for translations and it makes it really easy to translate.
 Translation includes Fearless Wallet, Sora project translation and Capital project translation (it is a module for Sora iOS application).
 
@@ -10,9 +11,9 @@ Check out [Translation Round Q1 2021 Article](https://sora-xor.medium.com/reward
 
 ### Here is how it works:
 1. Join our [Translation Group on Telegram](https://t.me/sora_translation_community)
-2. Check out the table below – if you want to translate or review a language that is not yet translated/ reviewed – let us know about it in the group, or better yet — **text @Loejr on Telegram**.
+2. Check out the table below – if you want to translate or review a language that is not yet translated/reviewed – let us know about it in the group, or better yet — **text @Loejr on Telegram**.
 We will check and ask you to fill in the form to add you to Lokalise. Don't hesitate to let us know if you can't access some features you need.
-3. You'll receive invitation and can start translating/ reviewing.
+3. You'll receive invitation and can start translating/reviewing.
 The language will be assigned to you but **please note it can be reassigned if the translation has not been in progress for some time.**
 4. After translation is complete, we will need to review it before reward is sent out.
 The translator receives 90% of the reward, 10% goes to the reviewer.
