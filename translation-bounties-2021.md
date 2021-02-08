@@ -28,7 +28,35 @@ Rewards change depending on the market price for VAL.
 
 ## Table of the languages already in work
 
-| Language | Assigned (Telegram Alias) | Capital/Sora/Fearless | Is Reviewed? | Reward Assignment | Is Reward Sent |
-|----------|---------------------------|-----------------------|--------------|-------------------|----------------|
-|Klingon   | L'Rell                    | 100%/100%/0%          | Yes/ Yes/ Yes|                   |                |
-|          | Antaak                    | 0%/0%/100%            |              |                   |                |
+
+| Language              | Assigned (Telegram Alias) | Capital/Sora/Fearless | Is Reviewed? | Reward Assignment | Is Reward Sent |
+|-----------------------|---------------------------|-----------------------|--------------|-------------------|----------------|
+| Portuguese            | @Dakxion                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 169.94            | Yes            |
+| Portuguese            | Rodrigo Burigo            | Yes/Yes/Yes           | Yes/Yes/Yes  | 123.06            | Yes            |
+| Portuguese (Reviewer) | @bejega                   | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Dutch                 | @YourNeighbourGeorge      | Yes/Yes/Yes           | Yes/Yes/Yes  | 87.9              | Yes            |
+| Dutch                 | @BenoLibre                | Yes/Yes/Yes           | Yes/Yes/Yes  | 205.1             | Yes            |
+| Dutch (Reviewer)      | @RobinT                   | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Indonesian            | @Ari_Wibawa               | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Indonesian (Reviewer) | @benyraga                 | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Czech                 | @Curu24                   | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Czech (Reviewer)      | @Korialstrazs             | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| French                | @NonoFR                   | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| French (Reviewer)     | @giovanese                | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Lithuanian            | @micr0glia                | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Lithuanian (Reviewer) | @edvyno1                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Khmer                 | @rameakh                  | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Croatian              | @telasius                 | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Croatian (Reviewer)   | @islavica                 | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Spanish               | @altstronaut              | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Spanish (Reviewer)    | @mariettee                | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Greek                 | @Vla_Tzei                 | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Greek (Reviewer)      | evi lagkani               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Turkish               | @Yavru                    | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Turkish (Reviewer)    | @z365air                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Catalan               | @eliasmolins              | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Catalan (Reviewer)    | @fuckingmutante           | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Swedish               | @AnonRollingDubs          | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Swedish (Reviewer)    | @kungsvullo               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Basque                | @krutwig                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Basque (Reviewer)     | @Aritzelo11               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
