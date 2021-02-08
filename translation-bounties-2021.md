@@ -60,3 +60,36 @@ Rewards change depending on the market price for VAL.
 | Swedish (Reviewer)    | @kungsvullo               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Basque                | @krutwig                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
 | Basque (Reviewer)     | @Aritzelo11               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
+| Ukrainian             | @mingela                  | No/No/Yes             | No/No/No     | -                 | No             | 
+| Polish                | @rprzybylski              | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Polish                | @Engineer99x (reviewer)   | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Simplified Chinese    | @AeonC                    | No/No/Yes             | No/No/No     | -                 | No             |
+| Simplified Chinese    | XOR 天 SUSEJ 神 (reviewer)| No/No/Yes              | No/No/No    | -                 | No             |
+| Traditional Chinese   | @AeonC                    | No/No/Yes             | No/No/No     | -                 | No             |
+| Traditional Chinese   | BB机 (reviewer)           | No/No/Yes             | No/No/No     | -                 | No             |
+| Malay                 | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | 95 VAL            | No             |
+| Malay                 | @rxz7277                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 33 VAL            | No             |
+| Azerbaijan            | @Zaubuli                  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Filipino              | @ryjin111                 | No/No/Yes             | No/No/No     | -                 | No             |
+| Filipino              | @tatlonghari (reviewer)   | No/No/Yes             | No/No/No     | -                 | No             |
+| Kazakh                | @salabaevax               | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Hindi                 | @Armaan007xxx             | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Hindi                 | @pd_1213                  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Bulgarian             | @SleepyStar               | Yes/Yes/Yes           | Yes/Yes/Yes  | 293 VAL           | No             |
+| Bulgarian             | @ChillCrypto_Mill (reviewer) | Yes/Yes/Yes        | Yes/Yes/Yes  | 33 VAL            | No             |
+| German                | @Wlad                     | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| German                | @basicversion (reviewer)  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Finnish               | @Mehustaja                | No/No/Yes             | No/No/No     | -                 | No             |
+| malayalam             | @rizu00                   | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Korean                | @denisekim                | No/No/Yes             | No/No/No     | -                 | No             |
+| Afrikaans             | @Brenton\_Lee             | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Bengali               | @CAT51                    | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Serbian               | @Nightmare5733            | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Khmer                 | @sopheakros (reviewer)    | Yes/Yes/Yes           | No/No/Yes    | -                 | No             |
+| Vietnamese            | @HuyHoang                 | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Vietnamese            | @rueisnax (reviewer)      | Yes/Yes/Yes           | No/No/No     | -                 | No             | 
+| Danish                | @Fentiman                 | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Hebrew                | @Ancientfish              | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Hebrew                | @hh55052                  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Slovenian             | @Gigen07                  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
+| Hungarian             | @bbeennzz                 | Yes/Yes/Yes           | No/No/No     | -                 | No             |
