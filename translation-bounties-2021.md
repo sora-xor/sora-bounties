@@ -47,7 +47,7 @@ Rewards change depending on the market price for VAL.
 | Lithuanian            | @micr0glia                | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
 | Lithuanian            | @edvyno1 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Khmer                 | @rameakh                  | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
-| Khmer                 | @sopheakros (reviewer)    | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
+| Khmer                 | @sopheakros (reviewer)    | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Croatian              | @telasius                 | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
 | Croatian              | @islavica (reviewer)      | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Spanish               | @altstronaut              | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
@@ -62,24 +62,24 @@ Rewards change depending on the market price for VAL.
 | Swedish (Reviewer)    | @kungsvullo               | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Basque                | @krutwig                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
 | Basque (Reviewer)     | @Aritzelo11 (reviewer)    | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
-| Ukrainian             | @mingela                  | No/No/Yes             | No/No/No     | -                 | No             | 
+| Ukrainian             | @mingela                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 239               | No             | 
 | Polish                | @rprzybylski              | Yes/Yes/Yes           | No/No/No     | -                 | No             |
 | Polish                | @Engineer99x (reviewer)   | Yes/Yes/Yes           | No/No/No     | -                 | No             |
-| Simplified Chinese    | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | -                 | No             |
-| Simplified Chinese    | XOR 天 SUSEJ 神 (reviewer)| No/No/Yes             | Yes/Yes/Yes  | -                 | No             |
-| Traditional Chinese   | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | -                 | No             |
-| Traditional Chinese   | BB机 (reviewer)           | No/No/Yes             | Yes/Yes/Yes  | -                 | No             |
-| Malay                 | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | 95 VAL            | No             |
-| Malay                 | @rxz7277 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | 33 VAL            | No             |
+| Simplified Chinese    | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | 293               | Yes            |
+| Simplified Chinese    | XOR 天 SUSEJ 神 (reviewer)| No/No/Yes             | Yes/Yes/Yes  | 27                | Yes            |
+| Traditional Chinese   | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | 95                | Yes            |
+| Traditional Chinese   | BB机 (reviewer)           | No/No/Yes             | Yes/Yes/Yes  | 33                | Yes            |
+| Malay                 | @AeonC                    | No/No/Yes             | Yes/Yes/Yes  | 95                | No             |
+| Malay                 | @rxz7277 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | No             |
 | Azerbaijan            | @Zaubuli                  | Yes/Yes/Yes           | No/No/No     | -                 | No             |
 | Filipino              | @ryjin111                 | No/No/Yes             | No/No/No     | -                 | No             |
 | Filipino              | @tatlonghari (reviewer)   | No/No/Yes             | No/No/No     | -                 | No             |
 | Kazakh                | @salabaevax               | Yes/Yes/Yes           | No/No/No     | -                 | No             |
-| Hindi                 | @Armaan007xxx (reviewer)  | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Hindi                 | @pd_1213                  | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Bulgarian             | @SleepyStar               | Yes/Yes/Yes           | Yes/Yes/Yes  | 293 VAL           | No             |
-| Bulgarian             | @ChillCrypto_Mill (reviewer) | Yes/Yes/Yes        | Yes/Yes/Yes  | 33 VAL            | No             |
-| German                | @Wlad                     | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
+| Hindi                 | @Armaan007xxx (reviewer)  | Yes/Yes/Yes           | Yes/Yes/Yes  | 24.72             | No             |
+| Hindi                 | @pd_1213                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 281.28            | Yes            |
+| Bulgarian             | @SleepyStar               | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Bulgarian             | @ChillCrypto_Mill (reviewer) | Yes/Yes/Yes        | Yes/Yes/Yes  | 33                | Yes            |
+| German                | @Wlad                     | Yes/Yes/Yes           | Yes/Yes/Yes  | 246.12            | Yes            |
 | German                | @basicversion (reviewer)  | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
 | Finnish               | @Mehustaja                | No/No/Yes             | No/No/No     | -                 | No             |
 | Finnish               | @aalstes                  | No/No/Yes             | No/No/No     | -                 | No             |
@@ -89,21 +89,21 @@ Rewards change depending on the market price for VAL.
 | Afrikaans             | @Brenton\_Lee             | Yes/Yes/Yes           | No/No/No     | -                 | No             |
 | Bengali               | @CAT51                    | Yes/Yes/Yes           | No/No/No     | -                 | No             |
 | Serbian               | @Nightmare5733            | Yes/Yes/Yes           | No/No/No     | -                 | No             |
-| Vietnamese            | @HuyHoang                 | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Vietnamese            | @rueisnax (reviewer)      | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             | 
+| Vietnamese            | @HuyHoang                 | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | No             |
+| Vietnamese            | @rueisnax (reviewer)      | Yes/Yes/Yes           | Yes/Yes/Yes  | 27                | No             | 
 | Danish                | @Fentiman                 | Yes/Yes/Yes           | No/No/No     | -                 | No             |
-| Hebrew                | @Ancientfish              | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Hebrew                | @hh55052                  | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Hebrew                | gedalia9 (reviewer        | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Slovenian             | @Gigen07                  | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Slovenian             | gregas12 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Hungarian             | @bbeennzz                 | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Hungarian             | Ricardo (reviewer)        | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
+| Hebrew                | @Ancientfish              | Yes/Yes/Yes           | Yes/Yes/Yes  | 163.494           | Yes            |
+| Hebrew                | @hh55052                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 129.506           | Yes            |
+| Hebrew                | gedalia9 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | 27                | Yes            |
+| Slovenian             | @Gigen07                  | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Slovenian             | gregas12 (reviewer)       | Yes/Yes/Yes           | Yes/Yes/Yes  | 27                | Yes            |
+| Hungarian             | @bbeennzz                 | Yes/Yes/Yes           | Yes/Yes/Yes  | 293               | Yes            |
+| Hungarian             | Ricardo (reviewer)        | Yes/Yes/Yes           | Yes/Yes/Yes  | 33                | Yes            |
 | Persian               | @R1991R0123               | No/No/No              | No/No/No     | -                 | No             |
 | Kurdish               | @R1991R0123               | No/No/No              | No/No/No     | -                 | No             |
 | Tamil                 | @Cubeoctahedron           | No/No/No              | No/No/No     | -                 | No             |
 | Urdu                  | newsmartmoney             | No/No/No              | No/No/No     | -                 | No             |
 | Arabic                | @A7m3dov                  | No/No/Yes             | No/No/No     | -                 | No             |
 | Arabic                | @LatinOsDz (refiewer)     | No/No/No              | No/No/No     | -                 | No             |
-| Romanian              | @alexVee90                | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
-| Romanian              | @andreisid (reviewer)     | Yes/Yes/Yes           | Yes/Yes/Yes  | -                 | No             |
+| Romanian              | @alexVee90                | Yes/Yes/Yes           | Yes/Yes/Yes  | 186.56            | Yes            |
+| Romanian              | @andreisid (reviewer)     | Yes/Yes/Yes           | Yes/Yes/Yes  | 27                | Yes            |
