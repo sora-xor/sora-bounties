@@ -19,9 +19,9 @@ The language will be assigned to you but **please note it can be reassigned if t
 The translator receives 90% of the reward, 10% goes to the reviewer.
 Please note that review is the process of checking (and small corrections) and not major editing – revisions are counted as some part of the translation.
 Who makes revisions – original translator or the reviewer – should be discussed between them or in the group.
-The reviewer should press "Mark as reviewed" on all the strings that he has manually checked.
+The reviewer should press "Mark as reviewed" (the first icon should become blue) and "Mark as verified" (the second icon should be grey and not orange) on all the strings that he has manually checked.
 *In some cases it might take some time to find a reviewer, so please be patient – reward will be sent when review is completed.*
-5. After the translation is complete (for Fearless is can be completed separately, for Sora — only together with Capital – it is a Sora component for iOS app) and reviewed, the award will be assigned – we'll ask for your wallet address in Telegram and add it to the table here.
+5. After the translation is complete (for Fearless it can be completed separately, for Sora — only together with Capital – it is a Sora component for iOS app) and reviewed, the award will be assigned – we'll ask for your wallet address in Telegram and add it to the table here.
 We use Lokalise reports to count your contribution; if you have any questions regarding reward assignment, let us know.
 6. **If you don't understand some words** you are translating, don't take a guess what they mean – just ask in the group, we'll help!
 
