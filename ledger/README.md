@@ -9,13 +9,11 @@ If you are a C programmer and ready for the challenge, following is the list of 
 **The first developer to have the work finished and tested by the team will get the reward.**
 You can, of course, form teams and then divide the reward between the teammates.
 
->  **Important:** reward amounts might be adjusted based on the market rates of VAL
-
 Operations that should be supported by Ledger integration:
 
-1. Base architecture and Transfers - will be rewarded with **1000 VAL**
-2. Swaps and Add/remove liquidity - will be rewarded with **500 VAL**
-3. Bridge transfers and rewards claiming - will be rewarded with **500 VAL**
+1. Base architecture and Transfers - will be rewarded with **$2400 equivalent of VAL tokens**
+2. Swaps and Add/remove liquidity - will be rewarded with **$1200 equivalent of VAL tokens**
+3. Bridge transfers and rewards claiming - will be rewarded with **$1200 equivalent of VAL tokens**
 
 The implementation is divided into milestones. 
 The first and and the most important operation is to implement base architecture and transfer. 
