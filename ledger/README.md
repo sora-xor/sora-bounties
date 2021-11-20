@@ -11,9 +11,9 @@ You can, of course, form teams and then divide the reward between the teammates.
 
 Operations that should be supported by Ledger integration:
 
-1. Base architecture and Transfers - will be rewarded with **$2400 equivalent of VAL tokens**
-2. Swaps and Add/remove liquidity - will be rewarded with **$1200 equivalent of VAL tokens**
-3. Bridge transfers and rewards claiming - will be rewarded with **$1200 equivalent of VAL tokens**
+1. Base architecture and Transfers - will be rewarded with **$10,000 equivalent of XOR tokens**
+2. Swaps and Add/remove liquidity - will be rewarded with **$12,000 equivalent of XOR tokens**
+3. Bridge transfers and rewards claiming - will be rewarded with **$12,000 equivalent of XOR tokens**
 
 The implementation is divided into milestones. 
 The first and and the most important operation is to implement base architecture and transfer. 
